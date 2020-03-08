@@ -1,0 +1,81 @@
+<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="Sched.html">Schedule & Events</a></li>
+										<li>
+											<span class="opener">By Position</span>
+											<ul>
+												<li><a href="President.html">President</a></li>
+												<li><a href="VPAcademic.html">VP Academic</a></li>
+												<li><a href="VPInternal.html">VP Internal</a></li>												
+                                                <li><a href="VPExternal.html">VP External</a></li>
+                                               	<li><a href="VPComms.html">VP Communications</a></li>
+												<li><a href="VPFinance.html">VP Finance</a></li>												
+                                                <li><a href="VPSust.html">VP Sustainability</a></li>
+                                                <li><a href="SSMURep.html">SSMU Representatives</a></li>
+												<li><a href="SciSen.html">Science Senator</a></li>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">By Candidate</span>
+											<ul>
+												<li><a href="Rohan.html">Rohan Bhutkar</a></li>
+												<li><a href="Asa.html">Asa Kohn</a></li>
+												<li><a href="Sydney.html">Sydney Merritt</a></li>
+												<li><a href="Haoyi.html">Haoyi Qi</a></li>
+												<li><a href="Maxine.html">Maxine Wu</a></li>
+											</ul>
+										</li>
+									</ul>
+								</nav>
+							
+							<!-- Section -->
+							<section>
+								<header class="major">
+									<h2>Get in touch</h2>
+								</header>
+								<p><b>Office: </b> Burnside Hall Room 1B21 <br>
+									<b>Address: </b> 805 Sherbrooke St. W., Montreal, QC H3A 2K6</p>
+								<ul class="contact">
+									<li class="icon solid fa-envelope"><a href="#">President.sus@mail.mcgill.ca</a></li>
+									<li class="icon solid fa-home">Burnside Hall, 805 Sherbrooke St. W.,<br>
+										Montreal, QC H3A 2K6</li>
+								</ul>
+							</section>
+
+						<!-- Footer -->
+							<footer id="footer">
+								<p class="copyright">&copy; Untitled. All rights reserved.</p>
+							</footer>
+
+					</div>
+				</div>
+
+		</div>
+
+	<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0"></script>
+
+</body>
+</html>
