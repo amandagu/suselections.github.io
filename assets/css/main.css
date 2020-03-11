@@ -1225,8 +1225,8 @@ input[type="radio"] + label:before {
     border: 0;
     position: relative;
     float: right;
-    max-height: 75%;
-    max-width: 75%;
+    max-height: 90%;
+    max-width: 90%;
     }
   .image.left, .image.right {
     max-width: 40%; }
